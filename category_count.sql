@@ -1,1 +1,1 @@
-select count(*) from category
+select count(*) from category where catgroup = 'Sports'
