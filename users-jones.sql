@@ -1,0 +1,1 @@
+select count(*) from users where lower(lastname) like '%jones%'
